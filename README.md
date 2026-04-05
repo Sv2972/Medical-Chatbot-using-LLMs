@@ -103,7 +103,7 @@ Visit `http://localhost:8080` in your browser.
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
 
 -----
 
